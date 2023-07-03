@@ -1,0 +1,5 @@
+IP: 158.160.62.106;
+name_taski: https://kirilltest.mooo.com/;
+name_kittygram: https://kirillpracticum.ddns.net/;
+login: kirill;
+password: kirill;
